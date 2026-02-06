@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Purinut Chairungrueang
+### Recent Graduate in Survey Engineering from Chulalongkorn University
 
-<!--
-**purinutchrr/purinutchrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tech Stack & Skills
+- **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL
+- **Data Visualization:** Matplotlib, Seaborn, Tableau/Power BI (Basic)
+- **Engineering Foundations:** Statistics, Geospatial Data Analysis, Mathematical Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me
+<a href="https://www.linkedin.com/in/purinut-chairungrueang-73592136b/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+</a>
+<a href="mailto:purinut.chrr@gmail.com">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" width="40" height="40" />
+</a>
+
+---
+*“Engineering is about solving problems. Data Science is about finding which problems to solve.”*
