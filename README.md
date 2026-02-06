@@ -4,8 +4,8 @@
 ---
 
 ### Tech Stack & Skills
-- **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL
-- **Data Visualization:** Matplotlib, Seaborn, Tableau/Power BI (Basic)
+- **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL(Basic)
+- **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI (Basic)
 - **Engineering Foundations:** Statistics, Geospatial Data Analysis, Mathematical Modeling
 
 ---
